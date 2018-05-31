@@ -1,18 +1,18 @@
 CACHE MANIFEST
-#ver:2018-5-31 21:39:12
+#ver:2018-5-31 21:49:58
 #plugin:4.9.1
 
 CACHE:
-/vendor.3437402f.js
-/client.493f44a5.js
-/manifest.95292176.js
-/client.c301f6cf.css
-/vendor.a46785bf.css
-/favicon.ico
-/icons/android-chrome-192x192.png
-/icons/android-chrome-512x512.png
-/manifest.json
-/
+./vendor.d133ea03.js
+./client.493f44a5.js
+./manifest.c350cdff.js
+./client.c301f6cf.css
+./vendor.a46785bf.css
+./favicon.ico
+./icons/android-chrome-192x192.png
+./icons/android-chrome-512x512.png
+./manifest.json
+./
 
 NETWORK:
 *
