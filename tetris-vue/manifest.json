@@ -1,6 +1,6 @@
 {
-  "name": "fast-typing-vuejs",
-  "short_name": "fast-typing-vuejs",
+  "name": "tetris-vue",
+  "short_name": "tetris-vue",
   "icons": [
     {
       "src": "/icons/android-chrome-192x192.png",
